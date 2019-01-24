@@ -1,6 +1,6 @@
 # Inline-Pressure-Sensor
 
-[![DOI](https://zenodo.org/badge/162624529.svg)](https://zenodo.org/badge/latestdoi/162624529)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2459494.svg)](https://doi.org/10.5281/zenodo.2459494)
 
 [Open Science Framework](https://osf.io/2mx4a/)
 
